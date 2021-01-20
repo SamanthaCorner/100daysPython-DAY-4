@@ -17,3 +17,9 @@
 * The starting code provides a variable called map which contains a nested list. It is not related to the map function in Python.
 
 * Lists start at index 0!
+
+# Rock Paper Scissors
+
+* classic game with some basic artwork to demonstrate the input / output, using the random module
+
+* the if / elif blocks incorporate the AND as well as OR logic flow to determine win / lose / draw
